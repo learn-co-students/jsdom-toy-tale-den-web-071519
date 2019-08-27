@@ -47,6 +47,30 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": -2
+    },
+    {
+      "name": "Whale",
+      "image": "https://media.istockphoto.com/illustrations/blue-whale-watercolor-illustration-spirit-animal-totem-wisdom-holder-illustration-id874533670?k=6&m=874533670&s=612x612&w=0&h=9paxOeUWT-ZgO_3Vsh4djHKu1HXv2NDjTx8ph_vrRho=",
+      "likes": 0,
+      "id": 9
+    },
+    {
+      "name": "Sink",
+      "image": "https://images.homedepot-static.com/productImages/34e81148-a081-4f36-8614-9e6a607f0b3c/svn/durable-satin-elkay-drop-in-kitchen-sinks-hd320874lfr-64_1000.jpg",
+      "likes": 0,
+      "id": 10
+    },
+    {
+      "name": "Car",
+      "image": "https://image.smythstoys.com/original/desktop/170534.jpg",
+      "likes": 0,
+      "id": 11
+    },
+    {
+      "name": "Bike",
+      "image": "https://www.rei.com/media/product/145841",
+      "likes": 0,
+      "id": 12
     }
   ]
 }
