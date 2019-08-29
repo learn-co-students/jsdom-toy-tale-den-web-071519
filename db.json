@@ -46,7 +46,13 @@
       "id": 8,
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
-      "likes": -2
+      "likes": -1
+    },
+    {
+      "name": "Taylor Stein",
+      "image": "https://i5.walmartimages.com/asr/6d2b4dfd-938c-4bc3-8bd5-3484570714d2_1.dea907d8a729dc4277314d3bc0ace826.jpeg",
+      "likes": 2,
+      "id": 9
     }
   ]
 }

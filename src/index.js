@@ -39,7 +39,7 @@ function postToy(toy_data) {
         })
         .then(response => response.json())
         .then((obj_toy) => {
-            let new_toy = rederToys(obj_toy)
+            let new_toy = renderToys(obj_toy)
             divCollect.append(new_toy)
         })
 }
@@ -70,8 +70,7 @@ function renderToys(toy) {
 
     let img = document.createElement('img')
     img.setAttribute('src', toy.image)
-    img.setAttribute('class'.
-        'toy-avatar')
+    img.setAttribute('class', 'toy-avatar')
 
     let p = document.createElement('p')
     p.innerText = `${toy.likes} likes`
