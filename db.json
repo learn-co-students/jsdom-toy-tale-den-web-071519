@@ -4,13 +4,13 @@
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 5
+      "likes": 7
     },
     {
       "id": 2,
       "name": "Buzz Lightyear",
       "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 8
+      "likes": 11
     },
     {
       "id": 3,
@@ -47,6 +47,42 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": -2
+    },
+    {
+      "name": "GGEEE",
+      "image": "http://d3nt9em9l1urz8.cloudfront.net/media/catalog/product/cache/3/image/9df78eab33525d08d6e5fb8d27136e95/s/n/snake_eyes_00_1000tsnkeysdblk.jpg",
+      "likes": 3,
+      "id": 10
+    },
+    {
+      "name": "Check one",
+      "image": "http://d3nt9em9l1urz8.cloudfront.net/media/catalog/product/cache/3/image/9df78eab33525d08d6e5fb8d27136e95/s/n/snake_eyes_00_1000tsnkeysdblk.jpg",
+      "likes": 0,
+      "id": 11
+    },
+    {
+      "name": "test 2",
+      "image": "http://d3nt9em9l1urz8.cloudfront.net/media/catalog/product/cache/3/image/9df78eab33525d08d6e5fb8d27136e95/s/n/snake_eyes_00_1000tsnkeysdblk.jpg",
+      "likes": 0,
+      "id": 12
+    },
+    {
+      "name": "test 2",
+      "image": "",
+      "likes": 0,
+      "id": 13
+    },
+    {
+      "name": "test 3",
+      "image": "http://d3nt9em9l1urz8.cloudfront.net/media/catalog/product/cache/3/image/9df78eab33525d08d6e5fb8d27136e95/s/n/snake_eyes_00_1000tsnkeysdblk.jpg",
+      "likes": 0,
+      "id": 14
+    },
+    {
+      "name": "test 3",
+      "image": "",
+      "likes": 0,
+      "id": 15
     }
   ]
 }
